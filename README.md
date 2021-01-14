@@ -25,7 +25,7 @@ I currently have this simple script running in multiple locations - with differn
 
 ##How I have it implimented:
 
-I created a folder in the root of C:drive where the database files is so that I can verify that the services
+I created a folder in the root of C:drive where the database files are so that I can verify that the services
 have been stopped and restarted again - all with dates and times in a text file. After about 3 months - I clear
 out the text file and it is recreated with the next run of the script.
 
