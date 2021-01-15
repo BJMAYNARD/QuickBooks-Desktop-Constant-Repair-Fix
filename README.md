@@ -2,12 +2,12 @@
 
 ##Why I wrote this script:
 
-As a system admin or someone who helps companies with QuickBooks Desktop versions, 
+As a system admin and someone who helps companies with QuickBooks Desktop versions, 
 it has been a baine of my existance to always have to either get the QuickBooks Database Manager started on the 
-server or desktop of which the files are bing shared out. The constant "network fix", or rebooting of the
+server or desktop of which the files are being shared out. The constant "network fix", or rebooting of the
 computer that is hosting the file. 
 
-After many mweeks of research and trial and error in writing a Python program to do this - only to learn that
+After many weeks of research and trial and error in writing a Python program to do this - only to learn that
 QuickBooks constantly changes the "Scan" button location. So with advoce from a friend - I looked into the
 services that QB was using and noticed that Windows had stopped them after so long. 
 
