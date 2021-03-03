@@ -28,5 +28,5 @@ echo %date% %time% QBCFMonitorService service started >> C:/batch/QBServices.txt
 echo %date% %time% QBIDPService service stopped >> C:/batch/QBServices.txt
 echo %date% %time% QBIDPService service started >> C:/batch/QBServices.txt
 echo %date% %time% QuickBooksDB29 service stopped >> C:/batch/QBServices.txt
-echo %date% %time% QuickBooksDB29 service stopped >> C:/batch/QBServices.txt
+echo %date% %time% QuickBooksDB29 service started >> C:/batch/QBServices.txt
 
